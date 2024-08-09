@@ -1,0 +1,14 @@
+#<<Setting sequence>>
+#f1,f2,pwr1,pwr2,mak1,brk1,mak2,brk2,mak3,brk3
+#Dail tone
+440,0,-12,-12,500,0,0,0,0,0
+#Ring back tone
+440,0,-20,-20,1500,3500,0,0,0,0
+#Error tone
+480,0,-6,-6,100,100,0,0,0,0
+#Call waiting tone
+440,0,-8,-8,300,10000,0,0,0,0
+#Second dail tone
+440,330,-5,-5,50,150,50,300,0,0
+#Busy tone
+440,0,-20,-20,500,500,0,0,0,0
